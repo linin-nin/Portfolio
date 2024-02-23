@@ -28,3 +28,21 @@ export const data = [
       },
     },
   ];
+
+export const navbar = [
+  {
+    id: 1,
+    link: "/",
+    navName: "Home"
+  },
+  {
+    id: 1,
+    link: "/",
+    navName: "About"
+  },
+  {
+    id: 1,
+    link: "/",
+    navName: "Contact"
+  },
+]
