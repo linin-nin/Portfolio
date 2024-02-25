@@ -13,7 +13,17 @@
   }
 
 .text-border {
-  -webkit-text-stroke-width: 3px #ffff;
-  -webkit-text-fill-color: transparent;
-  color: #ffff;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: transparent;
 }
+
+/* .cirlce {
+  font-size: 40px;
+  text-transform: uppercase;
+  animation: rounded 14s linear infinite;
+}
+@keyframes rounded {
+  100% {
+    transform: rotate(360deg);
+  }
+} */

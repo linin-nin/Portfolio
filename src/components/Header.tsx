@@ -1,10 +1,11 @@
 import React from 'react'
 import Link from 'next/link'
 import { navbar } from '@/app/_data'
+import Bounded from './Bounded'
 
 const Header = () => {
   return (
-    <div className='top-0 z-50 mx-auto max-w-7xl md:sticky md:top-4'>
+    <Bounded className=''>
         <nav className='text-white font-bold uppercase flex justify-between items-center py-3 px-5 rounded-xl'>
             <div className='text-2xl'>
                 <Link href="/" aria-label='Home page'>
@@ -23,7 +24,7 @@ const Header = () => {
                 }
             </ul>
         </nav>
-    </div>
+    </Bounded>
   )
 }
 
