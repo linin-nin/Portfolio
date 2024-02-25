@@ -16,13 +16,13 @@ const Page = () => {
                 </div>
             </div>
             <div className='flex flex-col gap-11'>
-                <Heading as="h1" size='lg'>Sreynin Pon</Heading>
+                <Heading as="h1" size='lg'>Sreynin,</Heading>
                 <Heading as="h2" size='sm'>A bit about myself</Heading>
                 <Heading as="h2" size='sm'>Just about</Heading>
                 <p className='text-slate-400'>What I do</p>
                 <p className='text-slate-400'>My experience, <br/> collaboration, and <br/> own vibes <br/> for sure.</p>
                 <Heading as="h2" size='sm'>So,</Heading>
-                <p className='text-slate-400'>
+                <p className='text-slate-400 mb-11'>
                 I’m Manoj  — Web Designer with an designer background. Being a self-taught designer/programmer, 
                 I have intention to perfect my every projects and I love designing that has to do with product 
                 & visual design, mobile & web projects as well as branding, typography, and animations. With my 
@@ -42,7 +42,7 @@ const Page = () => {
                 <p>2022 - Present</p>
                 <p>Computer Science</p>
             </div>
-            <div className='flex flex-col gap-3'>
+            <div className='flex flex-col gap-3 mt-11'>
                 <h3 className='text-slate-400'>Skills</h3>
                 <p>Typescript</p>
                 <p>HTMl</p>
@@ -53,7 +53,7 @@ const Page = () => {
                 <p>CSS</p>
                 <p>Next.js</p>
             </div>
-            <div className='flex flex-col gap-3'>
+            <div className='flex flex-col gap-3 mt-11'>
                 <h3 className='text-slate-400'>Experiences</h3>
                 <p>Web Developer</p>
                 <p>2023-Present</p>

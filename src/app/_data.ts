@@ -42,7 +42,7 @@ export const navbar = [
   },
   {
     id: 1,
-    link: "/",
+    link: "https://t.me/ponsreynin",
     navName: "Contact"
   },
 ]
