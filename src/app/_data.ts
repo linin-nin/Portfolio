@@ -37,7 +37,7 @@ export const navbar = [
   },
   {
     id: 1,
-    link: "/",
+    link: "/about",
     navName: "About"
   },
   {
