@@ -7,7 +7,7 @@ const Skill = () => {
             Skills
         </h1>
         <div className='flex flex-col justify-center items-center h-full'>
-            <ol className='flex flex-col justify-start leading-10 text-2xl'>
+            <ol className='flex flex-col justify-start font-border text-4xl leading-loose'>
                 <li>HTML-CSS-Javascript</li>
                 <li>Typescript</li>
                 <li>React-Next-Vue</li>

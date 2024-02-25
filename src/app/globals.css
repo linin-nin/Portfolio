@@ -12,9 +12,13 @@
     );
   }
 
-.text-border {
-  -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: transparent;
+.font-border {
+  -webkit-text-stroke: 1px white;
+  color: transparent;
+}
+.font-border-mar {
+  -webkit-text-stroke: 1px slategray;
+  color: transparent;
 }
 
 /* .cirlce {

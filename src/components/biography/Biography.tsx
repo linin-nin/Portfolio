@@ -9,7 +9,7 @@ const Biography = () => {
   return (
     <div>
       <div className='grid grid-1 md:grid-cols-2 gap-'>
-        <Heading className="mb-10" as="h1" size="md">About Me</Heading>
+        <Heading className="mb-10" as="h1" size="lg">Who I <span className='font-border font-normal'>Am</span></Heading>
         <Heading className="mb-10 mt-8" as="h3" size="sm" >Sreynin Pon</Heading>
         <div className="w-[450px] h-[550px] relative">
           <Image src="/Agility — Ricard Jorge.jpg" alt='image' fill className="w-full h-full object-cover"/>
