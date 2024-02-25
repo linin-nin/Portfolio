@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Project = () => {
   return (
     <div>
-        <div className="relative h-[500px]">
+        <div className="relative h-[400px]">
             <h1 className="absolute top-14 -z-10 text-slate-900 text-[300px] font-bold">
                 Projects
             </h1>

@@ -29,19 +29,19 @@ export default function Home() {
             <div className="socials inline-flex justify-center sm:justify-end">
                 <Link
                   href='https://www.linkedin.com/in/sreyninpon/'
-                  className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-red-600"
+                  className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
                 >
                   <Linkedin />
                 </Link>
                 <Link
                   href='https://www.facebook.com/profile.php?id=100054628981903'
-                  className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-red-600"
+                  className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
                 >
                   <Facebook />
                 </Link>
                 <Link
                   href='https://github.com/linin-nin'
-                  className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-red-600"
+                  className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
                 >
                   <Twitter />
                 </Link>
