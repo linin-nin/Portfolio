@@ -3,8 +3,9 @@ import React, { useEffect } from 'react'
 
 const Ellipse = () => {
   // useEffect(() => {
-  //   const circle = new CircleType(document.getElementById("cirlce"));
-  //   circle.radius(360);
+  //   const circleOfSkills = new CircleType(document.getElementById('rounded-text'))
+  //   .radius(100)
+  //   return circleOfSkills.mount()
   // }, []);
 
   return (

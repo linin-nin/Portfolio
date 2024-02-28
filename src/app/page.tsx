@@ -24,7 +24,7 @@ export default function Home() {
               with me ?
             </Heading>
             <button className="border-2 rounded-full px-10 py-2">
-              Let's talk
+              Let&apos;s talk
             </button>
             <div className="socials inline-flex justify-center sm:justify-end">
                 <Link
