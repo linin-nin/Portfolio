@@ -11,3 +11,23 @@
       hsla(222, 0%, 0%, 0) 100%
     );
   }
+
+.font-border {
+  -webkit-text-stroke: 1px white;
+  color: transparent;
+}
+.font-border-mar {
+  -webkit-text-stroke: 1px slategray;
+  color: transparent;
+}
+
+/* .cirlce {
+  font-size: 40px;
+  text-transform: uppercase;
+  animation: rounded 14s linear infinite;
+}
+@keyframes rounded {
+  100% {
+    transform: rotate(360deg);
+  }
+} */
