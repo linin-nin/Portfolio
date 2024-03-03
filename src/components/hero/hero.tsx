@@ -1,7 +1,5 @@
 import React from 'react'
 import Heading from '../Heading'
-import Bounded from '../Bounded'
-import Ellipse from './Ellipse'
 
 const Hero = () => {
   return (
@@ -13,7 +11,6 @@ const Hero = () => {
                 </Heading>
                 <h3 className='font-border text-5xl'>Creative developer</h3>
             </div>
-            <Ellipse/>
         </div>
           
     </div>
