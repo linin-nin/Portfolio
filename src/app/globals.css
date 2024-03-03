@@ -21,12 +21,13 @@
   color: transparent;
 }
 
-/* .cirlce {
+.cirlce {
   font-size: 40px;
   text-transform: uppercase;
   animation: rounded 14s linear infinite;
 }
-@keyframes rounded {
+
+/* @keyframes rounded {
   100% {
     transform: rotate(360deg);
   }
