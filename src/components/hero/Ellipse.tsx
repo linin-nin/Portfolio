@@ -5,7 +5,7 @@ const Ellipse = () => {
 
   return (
     <div className='cirlce'>
-        <p style={{"transfor"}}>SCROLLDOWN SCROLLDOWN</p>
+        <p >SCROLLDOWN SCROLLDOWN</p>
     </div>
   )
 }
